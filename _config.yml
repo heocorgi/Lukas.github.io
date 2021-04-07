@@ -6,7 +6,7 @@ email: heojunseo4583@gmail.com
 description: "Welcome"
 keyword: "corgi, hafs, student, progamming, baseball, yuqi"
 url: "https://lukas.github.io"              # your host, for absolute URL
-baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
+baseurl: "https://lukas.github.io"                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
 future: true
@@ -99,10 +99,8 @@ page-mathjax: false
 
 # Friends
 friends: [
+    
     {
-    #     title: "Su",
-    #     href: "http://su.gallery/"
-    # },{
         title: " Lukas's Blog",
         href: "https://heocorgi.github.io/"
     }
