@@ -5,7 +5,7 @@ header-img: img/home-bg.jpg
 email: heojunseo4583@gmail.com
 description: "Welcome"
 keyword: "corgi, hafs, student, progamming, baseball, yuqi"
-url: "https://Lukas.github.io"              # your host, for absolute URL
+url: "https://lukas.github.io"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
